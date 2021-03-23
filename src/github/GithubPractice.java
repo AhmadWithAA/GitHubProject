@@ -7,4 +7,6 @@ public class GithubPractice {
 		System.out.println("Im Hungry");
 	}
 
+	public static void printString(String str){
+		System.out.println(str);
 }
